@@ -1,0 +1,13 @@
+F:\.Net Programs\Database\Database\bin\Debug\netcoreapp3.1\Database.exe
+F:\.Net Programs\Database\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+F:\.Net Programs\Database\Database\bin\Debug\netcoreapp3.1\Database.runtimeconfig.json
+F:\.Net Programs\Database\Database\bin\Debug\netcoreapp3.1\Database.runtimeconfig.dev.json
+F:\.Net Programs\Database\Database\bin\Debug\netcoreapp3.1\Database.dll
+F:\.Net Programs\Database\Database\bin\Debug\netcoreapp3.1\Database.pdb
+F:\.Net Programs\Database\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+F:\.Net Programs\Database\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Database\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+F:\.Net Programs\Database\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+F:\.Net Programs\Database\Database\obj\Debug\netcoreapp3.1\Database.dll
+F:\.Net Programs\Database\Database\obj\Debug\netcoreapp3.1\Database.pdb
+F:\.Net Programs\Database\Database\obj\Debug\netcoreapp3.1\Database.genruntimeconfig.cache
